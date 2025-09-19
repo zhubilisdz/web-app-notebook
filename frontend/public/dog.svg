@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- 狗狗头部 -->
+  <ellipse cx="50" cy="45" rx="25" ry="20" fill="#8B4513" stroke="#654321" stroke-width="1"/>
+  
+  <!-- 狗狗耳朵 -->
+  <ellipse cx="35" cy="30" rx="8" ry="15" fill="#654321" transform="rotate(-30 35 30)"/>
+  <ellipse cx="65" cy="30" rx="8" ry="15" fill="#654321" transform="rotate(30 65 30)"/>
+  
+  <!-- 狗狗眼睛 -->
+  <circle cx="42" cy="40" r="4" fill="#000"/>
+  <circle cx="58" cy="40" r="4" fill="#000"/>
+  <circle cx="43" cy="38" r="1.5" fill="#FFF"/>
+  <circle cx="59" cy="38" r="1.5" fill="#FFF"/>
+  
+  <!-- 狗狗鼻子 -->
+  <ellipse cx="50" cy="48" rx="3" ry="2" fill="#000"/>
+  
+  <!-- 狗狗嘴巴 -->
+  <path d="M 50 50 Q 45 55 40 52" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M 50 50 Q 55 55 60 52" stroke="#000" stroke-width="2" fill="none"/>
+  
+  <!-- 狗狗舌头 -->
+  <ellipse cx="50" cy="58" rx="4" ry="6" fill="#FF69B4"/>
+  
+  <!-- 狗狗身体 -->
+  <ellipse cx="50" cy="75" rx="20" ry="15" fill="#8B4513" stroke="#654321" stroke-width="1"/>
+  
+  <!-- 狗狗尾巴 -->
+  <path d="M 70 70 Q 80 65 85 75 Q 80 80 75 75" fill="#8B4513" stroke="#654321" stroke-width="1"/>
+  
+  <!-- 狗狗腿 -->
+  <rect x="38" y="85" width="6" height="12" fill="#654321" rx="3"/>
+  <rect x="56" y="85" width="6" height="12" fill="#654321" rx="3"/>
+  
+  <!-- 狗狗爪子 -->
+  <ellipse cx="41" cy="98" rx="4" ry="2" fill="#000"/>
+  <ellipse cx="59" cy="98" rx="4" ry="2" fill="#000"/>
+</svg>
